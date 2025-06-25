@@ -6,7 +6,7 @@ This project uses [Trivy](https://github.com/aquasecurity/trivy) to scan the Doc
 
 ## 📁 JSON Report
 
-Full JSON vulnerability report is saved in [trivy-report.json](./trivy-report.json).
+Full JSON vulnerability report is saved in [trivy-report.json](./trivy-report.json) - https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit/blob/master/trivy-report.json.
 
 To re-generate:
 
