@@ -12,3 +12,7 @@ To re-generate:
 
 ```bash
 trivy image --format json -o trivy-report.json insecure-flask-app
+
+
+
+
